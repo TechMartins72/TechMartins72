@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TechMartins72 
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Front-End Development
+- 📫 U can reach me via X --- @villain_dev
+- 😄 I love music😊🥁
+- ⚡ Fun fact: 🤔💭
